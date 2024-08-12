@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @winpritam
-- 👀 I’m interested in web3, game dev, 3d rendering stufs..
-- 🌱 I’m currently learning c#, css, js
-- 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me : winpritamdas@gmail.com
-          @winpritam >>> instagram/facebook/..any other...
+- 👀 I’m passionate about Web3, game development, and 3D rendering.
+- 🌱 Currently diving deep into C#, CSS, and JavaScript.
+- 💞️ I’m eager to collaborate on Unity projects and innovative tech ventures.
+- 🥋 I also practice martial arts and explore blockchain and tech trends.
+- 📫 Reach me at: winpritamdas@gmail.com 23034211100@gnu.ac.in
+- 🌐 Find me on Instagram/Facebook: @winpritam
