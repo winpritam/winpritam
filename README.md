@@ -13,13 +13,13 @@
 ───────────────────────────────────────────────────────────────────────────
 
                           ┌───────────────────────────┐
-                          │     Certified Progress         │
-                          │         Report for             │
-                          │       **Pritam Das**           │
-                          │                                │
-                          │   Issued on: Sep 2024          │
-                          │   Status: Active Learner       │
-                          │     Score: 8.4 / 10            │
+                          │     Certified Progress    │
+                          │         Report for        │
+                          │       **Pritam Das**      │
+                          │                           │
+                          │   Issued on: Sep 2024     │
+                          │   Status: Active Learner  │
+                          │     Score: 8.4 / 10       │
                           └───────────────────────────┘
 
 ───────────────────────────────────────────────────────────────────────────
